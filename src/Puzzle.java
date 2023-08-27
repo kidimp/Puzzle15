@@ -13,10 +13,10 @@ import java.util.concurrent.ThreadLocalRandom;
  * JAVAFX DESCRIPTION:
  * For the correct work of program it is necessary download and install JavaFX application.
  * File - Project Structure - Libraries - From Maven, in the searching line type fx,
- * Choose from the list org.openjfx:javafx-fxml:11.0.2
- * Install in the folder with program.
+ * Choose from the list org.openjfx:javafx-fxml:19.0.2
  * In Run - Edit Configurations - VM options write
- * --module-path "/Users/pras/IdeaProjects/Wordle/lib" --add-modules javafx.controls,javafx.fxml
+ * --module-path "/Users/pras/IdeaProjects/Puzzle15/lib" --add-modules javafx.controls,javafx.fxml
+ * --module-path "C:\Users\Chous\IdeaProjects\Puzzle15\lib" --add-modules javafx.controls,javafx.fxml
  */
 
 public class Puzzle extends Application {
