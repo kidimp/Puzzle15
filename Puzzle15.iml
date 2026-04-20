@@ -10,4 +10,7 @@
     <orderEntry type="library" name="mysql-connector-j-8.1" level="project" />
     <orderEntry type="library" name="openjfx.javafx.fxml" level="project" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="2de002d9-44d4-467b-8b53-d2acfef8b665" />
+  </component>
 </module>
